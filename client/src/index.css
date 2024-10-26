@@ -1,0 +1,30 @@
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 24px;
+  color: #003366; /* Example primary color */
+}
+
+.section-item h3 {
+  font-size: 18px;
+  margin-top: 10px;
+  color: #336699; /* Example secondary color */
+}
+
+.section-item p, section#ov p {
+  font-size: 16px;
+  color: #555555;
+}
+
+.section-item {
+  padding: 15px 10px;
+  border-bottom: 1px solid #cccccc; /* Example tertiary color for section separation */
+}
